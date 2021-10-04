@@ -36,9 +36,9 @@ module.exports = {
 			} else {
 				const myava = "https://avatars.githubusercontent.com/u/35511603?v=4"
 				const noUserEmbed = new MessageEmbed()
-					.setTitle(`Steam Lookup`)
+					.setTitle(`numberlookup Lookup`)
 					.setDescription(`${interaction.user.tag}`)
-					.setURL(`https://www.battlemetrics.com/rcon/players?filter%5Bsearch%5D=${interaction.user.id}`)
+					.setURL(`google.com/${interaction.user.id}`)
 					.setAuthor("1gN0ble", myava,"https://github.com/1gN0bl3")
 					.setThumbnail(interaction.user.displayAvatarURL())
 					.addFields(

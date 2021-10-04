@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/1gN0bl3/MessenBird.git"
+    "url": ""
   },
   "author": "1gN0ble & Aspect",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/1gN0bl3/MessenBird/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/1gN0bl3/MessenBird#readme",
+  "homepage": "",
   "dependencies": {
     "@discordjs/builders": "^0.6.0",
     "@discordjs/rest": "^0.1.0-canary.0",
